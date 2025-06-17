@@ -19,6 +19,10 @@ Instale Python e as dependências (pip install requests beautifulsoup4 colorama)
 
 Baixe o programa do GitHub: git clone [link] ⬇️
 
+imaguem : ![image](https://github.com/user-attachments/assets/c666b6ef-0e2e-4000-8907-c6f303dd2022)
+
+video : https://www.tiktok.com/@bebreborn08/video/7517002651427425592
+
 Execute: python ScanSqIBETA1.py e use a interface visual (GUI)! 🖥️
 
 Lembre-se: Use com Ética! ⚠️
